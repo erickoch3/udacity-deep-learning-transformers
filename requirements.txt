@@ -1,0 +1,12 @@
+transformers
+pandas
+numpy
+scikit-learn
+ipykernel
+jupyter
+datasets
+tokenizers
+matplotlib
+seaborn
+tqdm
+sentencepiece
